@@ -1,0 +1,12 @@
+.project
+.classpath
+.settings/
+application-logs/
+target/
+tomcat/
+logs/
+application.pid
+spring.log
+src/test/resources/localworkingdir/temp/*.xml
+src/test/resources/ftpserver/temp/*.xml
+src/test/resources/ftpserver/temp/archive/*.xml
